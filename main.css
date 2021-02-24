@@ -7,16 +7,15 @@
   background-color: #DED3E3;
   color: white;
 }
+.nav img {
+  height: 200px
+}
 .nav {
   padding-bottom: 5px;
   padding-top: 5px;
   margin: 0;
   text-align: left;
   vertical-align: center;
-}
-#top {
-  background-color: #fff;
-  height: auto;
 }
 #navright{
   float:right;
