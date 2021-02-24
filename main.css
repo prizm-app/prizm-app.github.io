@@ -3,6 +3,7 @@
   display: inline-block;
   font-size: 28px;
   padding-left: 15px;
+  position: relative;
   vertical-align: bottom;
   text-decoration: underline;
 }
@@ -16,6 +17,7 @@
   padding-top: 5px;
   margin: 0;
   text-align: left;
+  position: absolute;
 }
 #navright{
   float:right;
