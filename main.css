@@ -1,6 +1,5 @@
 ul {
   vertical-align: top;
-  font-family: Comfortaa;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -25,4 +24,8 @@ li a {
 
 li a:hover {
   background-color: #111;
+}
+
+.container{
+  font-family: Comfortaa;
 }
