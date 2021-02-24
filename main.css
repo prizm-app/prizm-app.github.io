@@ -2,6 +2,8 @@
   color: #949494;
   display: inline-block;
   vertical-align: bottom;
+  padding-right: 15px;
+  font-size: 28px;
 }
 .nav a li:hover {
   color: #DED3E3;
