@@ -1,31 +1,26 @@
-ul {
-  text-align: right;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #FFF;
-}
-ul img {
-  height: 100px;
-  float: left;
-}
-li {
-  float: left;
-}
-li a {
-  vertical-align: bottom;
-  display: block;
+.nav a li {
   color: #DED3E3;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
+  display: inline-block;
+  vertical-align: bottom;
 }
-/* Change the link color to #111 (black) on hover */
-
-li a:hover {
+.nav a li:hover {
   background-color: #DED3E3;
   color: white;
+}
+.nav {
+  padding-bottom: 5px;
+  padding-top: 5px;
+  margin: 0;
+  text-align: left;
+  vertical-align: center;
+}
+#top {
+  background-color: #fff;
+  height: auto;
+}
+#navright{
+  float:right;
+  margin-top:20px;
 }
 
 .container{
