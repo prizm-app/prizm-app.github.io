@@ -1,7 +1,6 @@
 .nav a li {
   color: #949494;
   display: inline-block;
-  vertical-align: bottom;
   font-size: 36px;
 }
 .nav a li:hover {
@@ -15,7 +14,7 @@
   padding-top: 5px;
   margin: 0;
   text-align: left;
-  vertical-align: center;
+  vertical-align: bottom;
 }
 #navright{
   float:right;
