@@ -1,11 +1,10 @@
 .nav a li {
-  color: #DED3E3;
+  color: #949494;
   display: inline-block;
   vertical-align: bottom;
 }
 .nav a li:hover {
-  background-color: #DED3E3;
-  color: white;
+  color: #DED3E3;
 }
 .nav img {
   height: 100px
