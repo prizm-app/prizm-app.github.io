@@ -1,6 +1,4 @@
 ul {
-  vertical-align: bottom;
-  align: right;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -15,6 +13,7 @@ li {
   float: left;
 }
 li a {
+  vertical-align: bottom;
   display: block;
   color: #DED3E3;
   text-align: center;
