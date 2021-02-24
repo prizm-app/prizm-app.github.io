@@ -3,6 +3,7 @@
   display: inline-block;
   font-size: 28px;
   padding-left: 15px;
+  vertical-align: bottom;
 }
 .nav a li:hover {
   color: #DED3E3;
@@ -14,7 +15,6 @@
   padding-top: 5px;
   margin: 0;
   text-align: left;
-  vertical-align: bottom;
 }
 #navright{
   float:right;
