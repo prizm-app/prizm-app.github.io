@@ -18,6 +18,7 @@
   margin: 0;
   text-align: left;
   position: absolute;
+  vertical-align: top
 }
 #navright{
   float:right;
