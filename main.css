@@ -1,10 +1,7 @@
 .nav a li {
   color: #949494;
   display: inline-block;
-  font-size: 28px;
-  padding-left: 15px;
-  position: relative;
-  text-decoration: underline;
+  vertical-align: bottom;
 }
 .nav a li:hover {
   color: #DED3E3;
@@ -13,11 +10,11 @@
   height: 100px
 }
 .nav {
+  padding-bottom: 5px;
   padding-top: 5px;
   margin: 0;
   text-align: left;
-  vertical-align: top;
-  position: absolute;
+  vertical-align: center;
 }
 #navright{
   float:right;
