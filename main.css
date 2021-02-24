@@ -4,6 +4,7 @@
   font-size: 28px;
   padding-left: 15px;
   vertical-align: bottom;
+  text-decoration: underline;
 }
 .nav a li:hover {
   color: #DED3E3;
