@@ -29,6 +29,7 @@
 }
 
 .form {
+  display: block;
   padding-left: 40px;
 }
 textarea {
