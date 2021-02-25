@@ -3,12 +3,14 @@
   display: inline-block;
   padding-right: 15px;
   font-size: 28px;
+  vertical-align: bottom;
 }
 .nav a li:hover {
   color: #DED3E3;
 }
-.nav img {
-  height: 100px
+.nav a li img {
+  height: 100px;
+  vertical-align: top;
 }
 .nav p {
   color: #DED3E3;
