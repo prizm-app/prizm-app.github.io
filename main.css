@@ -24,13 +24,13 @@
   text-align: left;
 }
 #navright{
-  float:right;
-  margin-top:20px;
+  float: right;
+  margin-top: 20px;
 }
 
 form {
   display: block;
-  padding-left: 40px;
+  padding-left: 50px;
 }
 textarea {
   font-family: Comfortaa;
