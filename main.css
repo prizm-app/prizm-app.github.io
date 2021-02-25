@@ -11,6 +11,13 @@
 .nav img {
   height: 100px
 }
+.nav p {
+  color: #DED3E3;
+  display: inline-block;
+  vertical-align: bottom;
+  padding-right: 15px;
+  font-size: 28px;
+}
 .nav {
   padding-bottom: 5px;
   padding-top: 5px;
