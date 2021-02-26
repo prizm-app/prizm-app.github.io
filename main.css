@@ -40,8 +40,9 @@ input {
 }
 
 h1{
-  color: #DED3E3;
+  color: #949494;
   text-align: center;
+  vertical-align: center;
 }
 
 .container{
